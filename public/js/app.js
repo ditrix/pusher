@@ -70587,8 +70587,8 @@ function (_Component) {
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! /var/www/pusher/public_html/resources/assets/js/app.js */"./resources/assets/js/app.js");
-module.exports = __webpack_require__(/*! /var/www/pusher/public_html/resources/sass/app.scss */"./resources/sass/app.scss");
+__webpack_require__(/*! /home/ditrix/projects/pusher/resources/assets/js/app.js */"./resources/assets/js/app.js");
+module.exports = __webpack_require__(/*! /home/ditrix/projects/pusher/resources/sass/app.scss */"./resources/sass/app.scss");
 
 
 /***/ })
